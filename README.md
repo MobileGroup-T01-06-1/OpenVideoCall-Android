@@ -13,5 +13,5 @@ This app using the agora Video Call API as an external function used in Chitchat
 6. <string name="agora_app_id">"add your app id here"</string>
 7. <string name="agora_access_token">"add your app's token here"</string>
 8. Finally, run the application on the device.
-
+![Image text]()
 Notes: Please run this app on virtual device first, then, run the chitchat application.
