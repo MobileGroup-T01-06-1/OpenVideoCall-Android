@@ -8,7 +8,7 @@ This app using the agora Video Call API as an external function used in Chitchat
 1. download this project.
 2. go to https://www.agora.io to register an account and click create new project.
 3. Then, select entertainment and video call.
-4. Next, go to the project and click generate an temporary token.(This toke could be used for half a day and, after that, you should apply for a new one.)
+4. Next, go to the project and click generate an temporary token.**(This toke could be used for half a day and, after that, you should apply for a new one.)**
 5. Open the project (Using Android Studio), go to app->values->strings_config.xml
 6. <string name="agora_app_id">"add your app id here"</string>
 7. <string name="agora_access_token">"add your app's token here"</string>
