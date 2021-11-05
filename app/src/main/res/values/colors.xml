@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <color name="agora_blue">#006AD8</color>
+    <color name="agora_blue">#1C2E46</color>
 
     <color name="colorPrimary">@color/agora_blue</color>
     <color name="colorPrimaryDark">@color/agora_blue</color>
